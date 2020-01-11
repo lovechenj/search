@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79ad97c8-cece-46f6-8ee8-4592d3cf57fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Backend-master 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/MedicalPlatform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/SampleConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/controller/PFRController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/controller/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/controller/RecordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/dao/PFRRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/dao/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/dao/RecordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/BasicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/PatientFirstRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/PatientSHOW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/PatientSearchSHOW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/RecordSHOW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/info/Failure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/entity/info/Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/JWTFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/JWTToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/JWTUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/MyRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/securty/UnauthorizedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/java/cn/edu/upc/mp/service/ValidCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/MedicalPlatform-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/SampleConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/controller/PFRController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/controller/PatientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/controller/RecordController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/dao/PFRRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/dao/PatientRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/dao/RecordRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/dao/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/BasicInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/PatientFirstRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/PatientSHOW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/PatientSearchSHOW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/RecordSHOW.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/info/Failure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/entity/info/Success.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/JWTFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/JWTToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/JWTUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/MyRealm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/ShiroConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/securty/UnauthorizedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/classes/cn/edu/upc/mp/service/ValidCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/surefire-reports/TEST-Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/surefire-reports/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend-master/target/test-classes/Test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="dbdd96da-3a6b-403c-984c-ff00c3002bb4" />
+  </component>
+  <component name="ProjectId" id="1WC09qtwcVynO8zqCiIduhBUR6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SampleConfiguration" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MedicalPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.upc.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.upc.mp.SampleConfiguration" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SampleConfiguration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ad97c8-cece-46f6-8ee8-4592d3cf57fe" name="Default Changelist" comment="" />
+      <created>1578638120344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578638120344</updated>
+      <workItem from="1578638122296" duration="10116000" />
+      <workItem from="1578705360516" duration="2004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578647499013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578647499013" />
+    <state x="574" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1578647104672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578647104672" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578647122843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1578647122843" />
+    <state x="603" y="235" key="FileChooserDialogImpl" timestamp="1578707178158">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="603" y="235" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578707178158" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1578648582520">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578648582520" />
+    <state x="448" y="155" key="SettingsEditor" timestamp="1578706681073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="448" y="155" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578706681073" />
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1578647096143">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578647096143" />
+  </component>
+</project>
